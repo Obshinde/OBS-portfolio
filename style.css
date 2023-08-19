@@ -22,7 +22,7 @@ section{
     margin-top: 10px;
     height: 220px;
     width: 220px;
-    border-radius: 60%;
+    border-radius: 50%;
     box-shadow: 10px 10px 50px chartreuse;
 }
 .header{
